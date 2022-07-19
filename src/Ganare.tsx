@@ -1,0 +1,1 @@
+export let Ganare: "ROCK"| "POP"|"RAP"|"CLASSICAL";
